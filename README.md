@@ -15,13 +15,13 @@ Welcome to my page; on my Github, you can find:
 
 
 
-### 📧 You can contact me on:
+#### 📧 You can contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-pulikowski-6a478512a/)
 
 *I am open to new opportunities.*
 
 
-### 🔎 You can find me on: 
+#### 🔎 You can find me on: 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pulik_io)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaAdOBH2hnqLvEri1M7eg5Q)
@@ -29,19 +29,19 @@ Welcome to my page; on my Github, you can find:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-pulikowski-6a478512a/)
 
 
-### 📜 Github stats:
+#### 📜 Github stats:
 
 ![GITHUB STARS](https://img.shields.io/github/stars/puliczek?label=Total%20Github%20STARS&style=social)
 
 --- 
-### I am 🧙 Software Engineer on full-time.
+#### I am 🧙 Software Engineer on full-time.
 
 
 Mostly I work in Microsoft stack, but I believe that the best way is to choose technology for the specific problem.
 
 Additionally, I enjoy expanding my knowledge, because of that, I am open to learning new technologies and languages 🐱‍👓
 
-### My current technology stack:
+#### My current technology stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
@@ -60,7 +60,7 @@ Additionally, I enjoy expanding my knowledge, because of that, I am open to lear
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### Technology that I am using but just less
+#### Technology that I am using but just less
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
@@ -75,12 +75,12 @@ Additionally, I enjoy expanding my knowledge, because of that, I am open to lear
 
 ---
 
-###  I am 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
+####  I am 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
 Discovered and reported several vulnerabilities in projects like **Google Chrome, Microsoft Edge, or Opera**.
 
 Got 🏆 Listed in **Google's Hall of Fame** (Bug Bounty Hunters).
 
 My BSc Thesis in computer science was about "**Building remote administration tools (RAT)** in Java and theory of botnets" - Application to control thousands of computers in a hidden way from a remote location.
 
-### ⚔️ List of CVE reported by me:
+#### ⚔️ List of CVE reported by me:
 [CVE-2021-21123](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21129](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21130](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21131](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21172](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21141](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome)
