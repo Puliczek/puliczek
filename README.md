@@ -84,3 +84,5 @@ My BSc Thesis in computer science was about "**Building remote administration to
 
 #### ⚔️ List of CVE reported by me:
 [CVE-2021-21123](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21129](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21130](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21131](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21172](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21141](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome)
+
+![Profile counter](https://hit.yhype.me/github/profile?user_id=12344862)
