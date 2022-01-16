@@ -31,7 +31,7 @@ Welcome to my page; on my Github, you can find:
 
 #### 📜 Github stats:
 
-![GITHUB STARS](https://img.shields.io/github/stars/puliczek?label=Total%20Github%20STARS&style=social)
+![GITHUB STARS](https://github-readme-stats.vercel.app/api?username=puliczek&show_icons=true&theme=dracula)
 
 --- 
 #### I am 🧙 Software Engineer on full-time.
