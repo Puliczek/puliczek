@@ -5,7 +5,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Maciej.
 
 
-I am 🧙 Software Engineer and 👾 Security Researcher ( 🏆 Listed in Google's Hall of Fame)
+I am 🧙 Software Engineer and 👾 Security Researcher ( 🏆 8 x Listed in Google's Hall of Fame (TOP-100) )
 
 Welcome to my page; on my Github, you can find:
 - Projects created by me 
@@ -31,23 +31,26 @@ Welcome to my page; on my Github, you can find:
 
 #### 📜 Github stats:
 
-![GITHUB STARS](https://github-readme-stats.vercel.app/api?username=puliczek&show_icons=true&theme=dracula)
+![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 --- 
 #### I am 🧙 Software Engineer on full-time.
 
 
-Mostly I work in Microsoft stack, but I believe that the best way is to choose technology for the specific problem.
+In my view, the best approach is to pick the tech that's just right for the problem.
 
-Additionally, I enjoy expanding my knowledge, because of that, I am open to learning new technologies and languages 🐱‍👓
+Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
 
 #### My current technology stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next-js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
@@ -78,9 +81,9 @@ Additionally, I enjoy expanding my knowledge, because of that, I am open to lear
 ####  I am 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
 Discovered and reported several vulnerabilities in projects like **Google Chrome, Microsoft Edge, or Opera**.
 
-Got 🏆 Listed in **Google's Hall of Fame** (Bug Bounty Hunters).
+Got 🏆 Listed in TOP-100 **Google's Hall of Fame** (Bug Bounty Hunters).
 
-My BSc Thesis in computer science was about "**Building remote administration tools (RAT)** in Java and theory of botnets" - Application to control thousands of computers in a hidden way from a remote location.
+My BSc Thesis in computer science was about "**Building remote administration tools (RAT)** in Java and theory of botnets" - An application to control thousands of computers in a hidden way from a remote location.
 
 #### ⚔️ List of CVE reported by me:
 [CVE-2022-0337](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera), [CVE-2021-21123](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21129](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21130](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21131](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21172](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21141](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome)
